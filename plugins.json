@@ -4,10 +4,17 @@
     "releases": [
       {
         "version": "1.6.0",
-        "date": "2024-06-19T16:16:20.380355-06:00",
+        "date": "2024-06-19T16:16:20.380355-05:00",
         "url": "https://github.com/apetkau/nf-plugins-test/raw/main/plugins/nf-azure-1.6.0.zip",
         "requires": ">=22.10.0",
         "sha512sum": "dbd39cc081bd768f6974646e6f541aea849ce8dee843b72b9bc245476a9449585ee193ab7ce1f4b59aa14044a95a095eefbe4d59dec36487de837dade35394ef"
+      },
+      {
+        "version": "1.7.0",
+        "date": "2024-06-19T16:16:45.380355-05:00",
+        "url": "https://github.com/apetkau/nf-plugins-test/raw/main/plugins/nf-azure-1.7.0.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "161959a7170b5a847b4b654bc88b2a1ea9fb425ea2f4e72e10440995afb33fa694b635de0bd14aae092832b6637b5f3eb65d5dbb56b8c848572e89ea3ef297b9 "
       }
     ]
   }
