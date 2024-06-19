@@ -15,6 +15,13 @@
         "url": "https://github.com/apetkau/nf-plugins-test/raw/main/plugins/nf-azure-1.7.0.zip",
         "requires": ">=22.10.0",
         "sha512sum": "161959a7170b5a847b4b654bc88b2a1ea9fb425ea2f4e72e10440995afb33fa694b635de0bd14aae092832b6637b5f3eb65d5dbb56b8c848572e89ea3ef297b9"
+      },
+      {
+        "version": "1.6.0-nmlpatch1",
+        "date": "2024-06-19T16:17:07.380355-05:00",
+        "url": "https://github.com/apetkau/nf-plugins-test/raw/main/plugins/nf-azure-1.6.0-nmlpatch1.zip",
+        "requires": ">=22.10.0",
+        "sha512sum": "c3d1f2da29c11c7d1a72141eb5ce4a9328176689a18fa047f1de7864ca540d05071074b793d926507cd46f3d41f56a586cc9feff867899a85071233723f82d39"
       }
     ]
   }
