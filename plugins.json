@@ -5,7 +5,7 @@
       {
         "version": "1.6.0",
         "date": "2024-06-19T16:16:20.380355-06:00",
-        "url": "https://github.com/apetkau/nf-plugins-test/main/plugins/nf-azure-1.6.0.zip",
+        "url": "https://github.com/apetkau/nf-plugins-test/raw/main/plugins/nf-azure-1.6.0.zip",
         "requires": ">=22.10.0",
         "sha512sum": "dbd39cc081bd768f6974646e6f541aea849ce8dee843b72b9bc245476a9449585ee193ab7ce1f4b59aa14044a95a095eefbe4d59dec36487de837dade35394ef"
       }
